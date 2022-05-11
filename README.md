@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @ali2210
-- 👀 I’m interested in artistic technologies
-- 🌱 I’m currently learning rust, golang 
-- 💞️ I’m looking to collaborate on blockchain, ai, cryptography , genetics and many more
+- 👀 I’m interested in Consenus, AI, Distributed Systems, Cryptography, Robotics, Cloud & Genetics 
+- 🌱 I’m currently learning rust. I work in Near Blockchain, web framework (Actrix).  
+- 💞️ I’m working on Genetics and cloud
 - 📫 How to reach me AliMatrixCode@protonmail.com
 - 🏛️ Founder of @WisdomEnigma
+- 💻 I'm good in Golang; Web-Framework, Cloud, Microservices , Load Balance & GRPC technology
 
 <!---
 ali2210/ali2210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
